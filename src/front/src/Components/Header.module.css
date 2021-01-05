@@ -1,0 +1,33 @@
+.headerWrapper{
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+   justify-content: space-between;
+   background-color: rgb(0, 110, 255);
+   
+}
+
+.navbar{
+    float: left;
+    margin-left: 50px;
+}
+.navbar2{
+    margin-right: 50px;
+    float: right;
+}
+.navbar a{
+margin-right: 30px;
+}
+.navbar2 a{
+    margin-right: 30px;
+}
+a{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+

@@ -1,0 +1,6 @@
+.pleaselogin p{
+    color: black;
+}
+.pleaselogin p:hover{
+    color: red;
+}
